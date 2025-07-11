@@ -35,7 +35,7 @@ A comprehensive **RESTful backend API** built with **Spring Boot**, featuring se
 | **ORM** | Spring Data JPA / Hibernate |
 | **Documentation** | Swagger/OpenAPI 3.1 |
 | **Build Tool** | Maven |
-| **Testing** | JUnit 5, Mockito |
+
 
 ---
 
